@@ -1,0 +1,12 @@
+streamlit
+torch
+transformers
+accelerate
+sentencepiece
+bitsandbytes
+huggingface_hub
+sentence-transformers
+chromadb
+langchain
+langchain-community
+langchain-huggingface
