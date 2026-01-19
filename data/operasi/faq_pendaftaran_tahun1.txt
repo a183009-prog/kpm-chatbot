@@ -1,0 +1,155 @@
+[TAJUK]
+Soalan Lazim (FAQ) Pendaftaran Murid Tahun 1
+
+[KATEGORI]
+Operasi dan FAQ
+
+[TERPAKAI KEPADA] 
+Ibu bapa, penjaga, dan murid Tahun 1 warganegara Malaysia.
+
+[RINGKASAN UTAMA] 
+Dokumen ini mengandungi panduan teknikal mengenai penggunaan 
+sistem iDME, syarat kelayakan umur, kriteria penempatan sekolah, proses rayuan, 
+keperluan kesihatan, serta prosedur bagi pendaftaran lewat atau kes khas seperti Home Schooling.
+
+[SOALAN]
+Kenapa nama anak saya tiada dalam sistem iDME?
+
+[JAWAPAN]
+Pastikan maklumat anak telah didaftarkan dalam menu Profil Anak/Jagaan
+di Modul Pengurusan Awam sebelum memulakan permohonan sekolah.
+Jika maklumat masih tidak dipaparkan, semak status kewarganegaraan
+dan maklumat kelahiran yang dimasukkan.
+
+[SOALAN]
+Saya sudah mendaftar tetapi permohonan tidak boleh dihantar. Mengapa?
+
+[JAWAPAN]
+Permohonan hanya boleh dihantar selepas semua maklumat wajib diisi
+dan disahkan. Pastikan dokumen sokongan telah dimuat naik sepenuhnya
+dan disimpan sebelum menghantar permohonan.
+
+[SOALAN]
+Bolehkah saya mengemas kini maklumat anak selepas permohonan dihantar?
+
+[JAWAPAN]
+Kemas kini maklumat hanya dibenarkan sebelum tarikh tutup pendaftaran.
+Selepas permohonan dihantar, sebarang perubahan perlu dirujuk kepada
+Pejabat Pendidikan Daerah (PPD).
+
+[SOALAN]
+Anak saya lahir pada 2 Januari. Bolehkah mendaftar Tahun 1?
+
+[JAWAPAN]
+Kanak-kanak yang lahir pada 2 Januari hingga 15 Januari boleh memohon
+melalui saluran khas seperti Rayuan Kanak-Kanak Di Bawah Umur
+(Permohonan Ekspres), tertakluk kepada syarat dan penilaian pihak
+berkuasa pendidikan.
+
+[SOALAN]
+Jika anak lahir selepas tarikh kelayakan, apakah pilihan yang ada?
+
+[JAWAPAN]
+Ibu bapa boleh mengemukakan permohonan penangguhan kemasukan ke Tahun 1
+atau menunggu sesi persekolahan berikutnya, tertakluk kepada dasar
+pendidikan yang berkuat kuasa.
+
+[SOALAN]
+Bolehkah saya memilih sekolah yang jauh dari tempat tinggal?
+
+[JAWAPAN]
+Penempatan murid tertakluk kepada kekosongan tempat di sekolah dipohon
+serta kriteria jarak antara tempat tinggal dan sekolah. Keutamaan
+biasanya diberikan kepada murid yang tinggal berhampiran sekolah.
+
+[SOALAN]
+Mengapa anak saya tidak ditempatkan di sekolah pilihan pertama?
+
+[JAWAPAN]
+Penempatan dibuat berdasarkan kekosongan tempat, keutamaan zon,
+dan dasar penempatan sekolah. Sekiranya sekolah pilihan penuh,
+murid akan ditempatkan di sekolah alternatif yang berdekatan.
+
+[SOALAN]
+Bolehkah saya memohon pertukaran sekolah selepas keputusan penempatan?
+
+[JAWAPAN]
+Permohonan pertukaran sekolah hanya boleh dibuat melalui proses rayuan
+dalam tempoh yang ditetapkan dan tertakluk kepada pertimbangan
+pihak PPD atau JPN.
+
+[SOALAN]
+Bilakah rayuan penempatan boleh dibuat?
+
+[JAWAPAN]
+Rayuan penempatan biasanya dibuka selepas keputusan awal penempatan
+diumumkan, lazimnya sekitar bulan Julai hingga Ogos dalam tahun
+permohonan jika keputusan awal tidak berjaya (Dukacita).
+
+[SOALAN]
+Apakah maksud status “Dukacita” dalam keputusan rayuan?
+
+[JAWAPAN]
+Status “Dukacita” bermaksud permohonan rayuan tidak berjaya,
+kebiasaannya disebabkan ketiadaan kekosongan tempat di sekolah
+yang dipohon. Murid akan kekal di sekolah penempatan asal.
+
+[SOALAN]
+Bagaimana saya boleh mengetahui keputusan rayuan?
+
+[JAWAPAN]
+Keputusan rayuan boleh disemak secara dalam talian melalui portal
+iDME dalam tempoh yang dimaklumkan oleh Kementerian Pendidikan Malaysia.
+
+[SOALAN]
+Adakah suntikan imunisasi wajib sebelum murid masuk Tahun 1?
+
+[JAWAPAN]
+Ya. Rekod kesihatan dan imunisasi murid seperti yang direkodkan
+dalam Buku Rekod Kesihatan Kanak-Kanak (Buku Pink) perlu dikemas kini
+dan dimasukkan ke dalam sistem sebagai syarat kesihatan kemasukan.
+
+[SOALAN]
+Bagaimana jika anak saya mempunyai masalah kesihatan kronik?
+
+[JAWAPAN]
+Ibu bapa perlu memaklumkan keadaan kesihatan anak dan mengemukakan
+laporan perubatan yang disahkan. Kes tertentu boleh dipertimbangkan
+di bawah dasar pengecualian atau Home Schooling.
+
+[SOALAN]
+Saya terlepas tarikh pendaftaran. Apakah yang perlu dilakukan?
+
+[JAWAPAN]
+Pendaftaran lewat masih dibenarkan dalam tempoh yang ditetapkan.
+Ibu bapa digalakkan membuat pendaftaran segera atau berhubung dengan
+Pejabat Pendidikan Daerah untuk panduan lanjut.
+
+[SOALAN]
+Adakah Home Schooling dibenarkan untuk murid Tahun 1?
+
+[JAWAPAN]
+Home Schooling hanya dibenarkan sebagai pengecualian khas dan tertakluk
+kepada kelulusan Kementerian Pendidikan Malaysia. Ia bukan satu hak
+dan hanya dipertimbangkan bagi kes tertentu seperti masalah kesihatan
+kronik.
+
+[SOALAN]
+Bilakah murid Tahun 1 mula hadir ke sekolah?
+
+[JAWAPAN]
+Penerimaan murid Tahun 1 di sekolah lazimnya bermula pada pertengahan
+bulan Januari tahun persekolahan, tertakluk kepada takwim akademik
+semasa.
+
+[PIHAK BERKUASA] 
+Kementerian Pendidikan Malaysia (KPM), 
+Jabatan Pendidikan Negeri (JPN), 
+dan Pejabat Pendidikan Daerah (PPD).
+
+[TARIKH KUAT KUASA]
+Tertakluk kepada Takwim Akademik semasa.
+
+[RUJUKAN] 
+Portal iDME (Modul Pengurusan Awam), 
+Maklumat Rasmi KPM, JPN, dan PPD.
